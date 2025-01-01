@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.94ac2504.css",
+    "main.js": "./static/js/main.7edf4d0a.js",
+    "static/js/488.e75445ad.chunk.js": "./static/js/488.e75445ad.chunk.js",
+    "static/media/home.jpg": "./static/media/home.c59d0c7187757fe3b5bb.jpg",
+    "static/media/learn-more.jpg": "./static/media/learn-more.5cb896d6ca77bfb48115.jpg",
+    "static/media/about-us.jpg": "./static/media/about-us.e93a7435ebaf954f9bb9.jpg",
+    "static/media/blog-hero.jpg": "./static/media/blog-hero.d9b50103574c442e128c.jpg",
+    "static/media/profile.jpg": "./static/media/profile.a650ea2f0d0ca4828a34.jpg",
+    "static/media/mcq.jpg": "./static/media/mcq.97a7688c41e1cc977d49.jpg",
+    "static/media/socratic.jpg": "./static/media/socratic.e6fba3e8552e1a83e87c.jpg",
+    "static/media/logo.png": "./static/media/logo.8edca94836e7f36b3b06.png",
+    "static/media/physics.jpg": "./static/media/physics.cbbd2dc7891a48af79ac.jpg",
+    "static/media/biology.jpg": "./static/media/biology.7ddc2e72a7f90fd143ec.jpg",
+    "static/media/maths.jpg": "./static/media/maths.b3ab26dae7b537510989.jpg",
+    "index.html": "./index.html",
+    "main.94ac2504.css.map": "./static/css/main.94ac2504.css.map",
+    "main.7edf4d0a.js.map": "./static/js/main.7edf4d0a.js.map",
+    "488.e75445ad.chunk.js.map": "./static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ac2504.css",
+    "static/js/main.7edf4d0a.js"
+  ]
+}
